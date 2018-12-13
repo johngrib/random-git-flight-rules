@@ -1,4 +1,4 @@
-function git-flight-rules() {
+function gittip() {
 
     _fileName='/tmp/git-flight-rules.html'
     _indexFile='/tmp/git-flight-rules-index.txt'
