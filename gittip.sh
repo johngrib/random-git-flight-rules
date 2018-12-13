@@ -31,6 +31,6 @@ s,</?span[^>]*>,,g;
 '
     else
         echo '##recur##'
-        git-flight-rules
+        gittip
     fi
 }
